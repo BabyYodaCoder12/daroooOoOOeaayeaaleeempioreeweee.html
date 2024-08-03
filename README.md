@@ -1,8 +1,7 @@
 # daroooOoOOeaayeaaleeempioreeweee.html
 <!DOCTYPE HTML>
 <html>
-    <head>
-        <title>daroooOoOOeaayeaaleeempioreeweee.html</title>
+    <head>`
         <meta charset="utf-8">
         <style> h1 {background-color:blue;}</style>
     </head>
